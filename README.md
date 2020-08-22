@@ -7,4 +7,4 @@ Um aplicativo onde é possível ver gifs do GIPHY, fazer pesquisas através das 
 
 ## Informações adicionais
 
-Testado na versão v1.12.13+hotfix.5 do Flutter SDK, pode quebrar em versões futuras
+Funciona na versão v1.2.1, certamente quebra em versões futuras.
