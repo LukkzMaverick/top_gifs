@@ -1,6 +1,8 @@
 # top_gifs
 
 Um aplicativo onde é possível ver gifs do GIPHY, fazer pesquisas através das tags(em inglês) e compartilhar gifs.
+
+
 ## Getting Started
 
     git clone git@github.com:LukkzMaverick/top_gifs.git   
