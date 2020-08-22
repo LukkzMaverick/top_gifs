@@ -8,5 +8,6 @@ Um aplicativo onde é possível ver gifs do GIPHY, fazer pesquisas através das 
 ## Link na Play Store
 - https://play.google.com/store/apps/details?id=maverick.lukkz.topgifs&hl=pt_BR
 
-##Informações adicionais
+## Informações adicionais
+
 Testado na versão v1.12.13+hotfix.5 do Flutter SDK, pode quebrar em versões futuras
